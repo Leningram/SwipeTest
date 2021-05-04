@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SwipeTest/static/css/main.374b9d91.chunk.css",
-    "main.js": "/SwipeTest/static/js/main.3378bccd.chunk.js",
-    "main.js.map": "/SwipeTest/static/js/main.3378bccd.chunk.js.map",
+    "main.js": "/SwipeTest/static/js/main.fc6fbfde.chunk.js",
+    "main.js.map": "/SwipeTest/static/js/main.fc6fbfde.chunk.js.map",
     "runtime-main.js": "/SwipeTest/static/js/runtime-main.6e911e6c.js",
     "runtime-main.js.map": "/SwipeTest/static/js/runtime-main.6e911e6c.js.map",
     "static/js/2.be243f12.chunk.js": "/SwipeTest/static/js/2.be243f12.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6e911e6c.js",
     "static/js/2.be243f12.chunk.js",
     "static/css/main.374b9d91.chunk.css",
-    "static/js/main.3378bccd.chunk.js"
+    "static/js/main.fc6fbfde.chunk.js"
   ]
 }
