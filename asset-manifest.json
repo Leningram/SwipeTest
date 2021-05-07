@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SwipeTest/static/css/main.2bc6067d.chunk.css",
+    "main.css": "/SwipeTest/static/css/main.0886c701.chunk.css",
     "main.js": "/SwipeTest/static/js/main.051b97db.chunk.js",
     "main.js.map": "/SwipeTest/static/js/main.051b97db.chunk.js.map",
     "runtime-main.js": "/SwipeTest/static/js/runtime-main.6e911e6c.js",
@@ -10,13 +10,13 @@
     "static/js/3.8c8f5ea6.chunk.js": "/SwipeTest/static/js/3.8c8f5ea6.chunk.js",
     "static/js/3.8c8f5ea6.chunk.js.map": "/SwipeTest/static/js/3.8c8f5ea6.chunk.js.map",
     "index.html": "/SwipeTest/index.html",
-    "static/css/main.2bc6067d.chunk.css.map": "/SwipeTest/static/css/main.2bc6067d.chunk.css.map",
+    "static/css/main.0886c701.chunk.css.map": "/SwipeTest/static/css/main.0886c701.chunk.css.map",
     "static/js/2.be243f12.chunk.js.LICENSE.txt": "/SwipeTest/static/js/2.be243f12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6e911e6c.js",
     "static/js/2.be243f12.chunk.js",
-    "static/css/main.2bc6067d.chunk.css",
+    "static/css/main.0886c701.chunk.css",
     "static/js/main.051b97db.chunk.js"
   ]
 }
